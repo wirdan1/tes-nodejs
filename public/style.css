@@ -15,3 +15,8 @@
 .swagger-ui .scheme-container {
     background-color: transparent;
 }
+
+/** biar susah lu debug json nya😂 **/
+.swagger-ui .messages .schemaValidationMessages {
+    display: none; 
+}
